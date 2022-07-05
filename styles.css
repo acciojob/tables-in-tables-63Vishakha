@@ -17,3 +17,39 @@
     align-items: center;
     justify-content: center;
 }
+
+
+table ,tr, td, th{
+    border: 2px solid;
+    border-color: black;
+    text-align: center;
+}
+
+#maintable{
+    height: 300px;
+    width: 350px;
+}
+
+#table2{
+    text-align: center;
+    width:300px;
+    align-content: center;
+}
+#table1{
+  width: 300px;
+}
+
+
+#table3{
+    width: 300px;
+}
+
+#table4{
+    width: 300px;
+}
+
+
+#new{
+    background-color: black;
+}
+
